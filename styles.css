@@ -23,9 +23,17 @@ body {
     height: auto;
 }
 
+#video h2 {
+    max-width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 1.5em; /* Adjusted font size */
+    line-height: 1.5; /* Adjusted line height */
+    word-break: break-word; /* Breaks long words */
+}
 
 header {
-    padding: 10px 0;
+    padding: 20px 0; /* Increased padding */
     text-align: center;
     border-bottom: 2px solid #999;
     background-color: white; /* Banner color */
@@ -39,7 +47,8 @@ header {
 
 header h1 {
     margin: 0;
-    font-size: 3.5em; /* Increased font size */
+    font-size: 3em; /* Increased font size */
+    line-height: 1.2; /* Adjusted line height */
 }
 
 header .logo {
@@ -50,7 +59,7 @@ header .logo {
 
 nav {
     background-color: white; /* Banner color */
-    padding: 10px 0;
+    padding: 20px 0; /* Increased padding */
     border-bottom: 2px solid #999;
 }
 
@@ -63,13 +72,14 @@ nav ul {
 
 nav ul li {
     display: inline;
-    margin: 0 15px;
+    margin: 20px 15px; /* Increased margin between lines */
 }
 
 nav ul li a {
     text-decoration: none;
     color: #000;
     font-weight: bold;
+    font-size: 1.5em; /* Increased font size */
 }
 
 nav ul li a:hover {
@@ -86,6 +96,15 @@ main section {
 
 #video {
     text-align: center;
+}
+
+#video h2 {
+    max-width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 1.5em; /* Increased font size */
+    line-height: 1.5; /* Adjusted line height */
+    word-break: break-word; /* Breaks long words */
 }
 
 video {
@@ -160,3 +179,26 @@ footer {
 .hidden {
     display: none;
 }
+
+/* Media query for mobile */
+@media (max-width: 768px) {
+    nav ul li {
+        display: block;
+        margin: 10px 0; /* Adjusted margin */
+        text-align: center; /* Center-align the links */
+    }
+
+    nav ul li a {
+        display: inline-block;
+        padding: 1px 1px; /* Increased padding */
+        font-size: 1.5em; /* Increased font size */
+        width: auto; /* Set width to auto */
+    }
+
+    header .logo {
+        margin-right: 1px; /* Adjusted margin to move more to the right */
+        margin-left: 10px; /* Adjusted margin to move more to the right */
+        width: 140px; /* Increased width for larger logo */
+    }
+}
+
