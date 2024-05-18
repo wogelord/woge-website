@@ -39,6 +39,11 @@ function loadImages() {
         "doge-dogejack-smell.png",
         "doge-dogejack.png",
         "dogejack-wojack-doomer.png",
+        "doge-dogejack-logo-nobg.png",
+        "Untitled-3.png",
+        "woge-base-happy.png",
+        "woge-base-very_happy.png",
+        "woge-pepe-nobg-2.png",
         // Add more image filenames as needed
     ];
 
