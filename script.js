@@ -44,6 +44,13 @@ function loadImages() {
         "woge-base-happy.png",
         "woge-base-very_happy.png",
         "woge-pepe-nobg-2.png",
+        "woge-marie-green-uparrows.png",
+        "woge-wojack-hug.png",
+        "woge-protection-soldier-fees.png",
+        "woge-dogekevinjames.png",
+        "woge-drinking-milk-cheems.png",
+        "woge-woge-greenpsd.png",
+        "woge-darth-woge.png",
         // Add more image filenames as needed
     ];
 
