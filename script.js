@@ -37,6 +37,8 @@ function loadImages() {
     // Predefined list of image filenames (you can add all your images here)
     const imagesList = [
         "doge-dogejack-smell.png",
+        "woge-base-closeeyes.png",
+        "woge-base-ooft copy.png",
         "doge-dogejack.png",
         "dogejack-wojack-doomer.png",
         "doge-dogejack-logo-nobg.png",
@@ -51,6 +53,16 @@ function loadImages() {
         "woge-drinking-milk-cheems.png",
         "woge-woge-greenpsd.png",
         "woge-darth-woge.png",
+        "woge-ooof(woof)-'.png",
+        "woge-buff.png",
+        "woge-townmeeting-doge-nobg.png",
+        "woge-cube-wif-hat.png",
+        "woge-doge-mask.png",
+        "woge-pepe-wogelove.png",
+        "woge-rubbing-hands.png",
+        "woge-sniper-bear.png",
+        "woge-lockin.png",
+        "woge-sleeping-simpsons.png",
         // Add more image filenames as needed
     ];
 
