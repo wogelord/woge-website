@@ -63,6 +63,13 @@ function loadImages() {
         "woge-sniper-bear.png",
         "woge-lockin.png",
         "woge-sleeping-simpsons.png",
+        "woge-baller-plane.png",
+        "woge-woge-unbothered.png",
+        "woge-boyfriend-meme-wojak-pepepsd.png",
+        "woge-iwantyou-army.png",
+        "woge-door.png",
+        "woge-get-in-loser-memecoins.png",
+        "woge-kabosu-tribute.png",
         // Add more image filenames as needed
     ];
 
